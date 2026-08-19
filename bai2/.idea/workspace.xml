@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbafa395-75d7-4e14-aa77-1ad5a576c680" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0095826853349338E-59" />
+      <entry key="MS500" value="1.6885491303036983E-12" />
+      <entry key="S2" value="0.0016863476466359266" />
+      <entry key="S5" value="0.12336996561664071" />
+      <entry key="S10" value="0.6493345074811455" />
+      <entry key="S30" value="2.673643681989957" />
+      <entry key="S60" value="4.440370909172571" />
+      <entry key="M2" value="6.92200202169306" />
+      <entry key="M5" value="10.725656457946924" />
+      <entry key="M10" value="12.946287138412874" />
+      <entry key="M15" value="13.856346765626744" />
+      <entry key="M30" value="14.869799187828155" />
+      <entry key="H1" value="15.419403229505354" />
+      <entry key="H2" value="15.705708275366057" />
+      <entry key="H4" value="15.851840477136047" />
+      <entry key="D1" value="15.97516463919941" />
+      <entry key="W1" value="15.996448593783452" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0000000001132319" />
+      <entry key="MS500" value="1.0103918723936625" />
+      <entry key="S2" value="1.4270175623477706" />
+      <entry key="S5" value="2.045454512055124" />
+      <entry key="S10" value="2.507300474257174" />
+      <entry key="S30" value="4.008601811369774" />
+      <entry key="S60" value="5.65611133695062" />
+      <entry key="M2" value="7.73240827177013" />
+      <entry key="M5" value="10.498040204564862" />
+      <entry key="M10" value="12.003166297791953" />
+      <entry key="M15" value="12.605710142507114" />
+      <entry key="M30" value="13.26888170328668" />
+      <entry key="H1" value="13.625454579960794" />
+      <entry key="H2" value="13.810415782460794" />
+      <entry key="H4" value="13.904621679326063" />
+      <entry key="D1" value="13.98402147709047" />
+      <entry key="W1" value="13.9977153329422" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="3.094358865624328E-5" />
+      <entry key="MS500" value="0.1293777142701702" />
+      <entry key="S2" value="0.9253722870707066" />
+      <entry key="S5" value="1.8536490836855553" />
+      <entry key="S10" value="2.9299291700031227" />
+      <entry key="S30" value="6.5355337188002105" />
+      <entry key="S60" value="9.984546010550185" />
+      <entry key="M2" value="14.565988801353367" />
+      <entry key="M5" value="21.167218896131473" />
+      <entry key="M10" value="24.91500622900909" />
+      <entry key="M15" value="26.43739737438769" />
+      <entry key="M30" value="28.125408537387347" />
+      <entry key="H1" value="29.03796631694353" />
+      <entry key="H2" value="29.512611851515217" />
+      <entry key="H4" value="29.754689097991406" />
+      <entry key="D1" value="29.95888822220987" />
+      <entry key="W1" value="29.99412131164914" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I7xJ5ttXYVVrpfKwIdRHrh1kmB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.TransferRequestValidationTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/it213/session6/bai2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Gradle.TransferRequestValidationTest">
+    <configuration name="TransferRequestValidationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.example.bai1.TransferRequestValidationTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Bai1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="bai2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bai1.Bai1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TransferRequestValidationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbafa395-75d7-4e14-aa77-1ad5a576c680" name="Changes" comment="" />
+      <created>1787129333674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787129333674</updated>
+      <workItem from="1787129334692" duration="894000" />
+      <workItem from="1787138910088" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
